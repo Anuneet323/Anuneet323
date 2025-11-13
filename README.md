@@ -45,7 +45,7 @@ I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI auto
 
 ---
 
-## 👨‍💻 About Me (JSON STYLE)
+## 👨‍💻 About Me  (JSON STYLE)
 
 ```js
 const Anuneet = {
