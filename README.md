@@ -1,5 +1,4 @@
-<!-- Banner -->
-![github-banner](https://files.chatgpt.com/file_AZ8xJ9cL9xNelGxmEj6F4.png)
+
 
 <h2 align="left">
     Hey, I'm Anuneet Singh Chauhan
@@ -9,36 +8,27 @@
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" width="25" />
 I'm Anuneet Singh Chauhan — a Full-Stack Developer, AI/ML Learner & IoT Enthusiast.  
-I love creating smart systems using ESP32, DHT11, MQ135, MQ2 & TDS sensors and building scalable web apps.
+Motivated and detail-oriented, Pursuing B.Tech in Computer Science (IoT Specialization) with experience building scalable web and IoT-cloud systems.
 </p>
 
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25" />
-I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI automation and embedded development.
+I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI automation and embedded development.Passionate about clean code, performance optimization, and teamwork through hackathons, internships, and open-source projects. Actively learning DSA in Java to strengthen problem-solving skills.
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
+
+<!-- Option C: Alt stat mirror -->
 <div align="center">
+  <!-- small profile card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuneet323" height="120" alt="Profile summary"/>
 
-<!-- Main Stats -->
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anuneet323&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-  height="160" />
 
-<!-- Streak -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Anuneet323&theme=dark&hide_border=false" 
-  height="160" />
 
-<!-- Languages -->
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anuneet323&layout=compact&theme=dark&hide_border=false" 
-  height="160" />
 
-</div>
 
 ---
 
