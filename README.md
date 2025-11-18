@@ -6,13 +6,11 @@
 </h2>
 
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" width="25" />
 I'm Anuneet Singh Chauhan — a Full-Stack Developer, AI/ML Learner & IoT Enthusiast.  
 Motivated and detail-oriented, Pursuing B.Tech in Computer Science (IoT Specialization) with experience building scalable web and IoT-cloud systems.
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25" />
 I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI automation and embedded development.Passionate about clean code, performance optimization, and teamwork through hackathons, internships, and open-source projects. Actively learning DSA in Java to strengthen problem-solving skills.
 </p>
 
