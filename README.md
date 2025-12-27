@@ -134,7 +134,14 @@ const Anuneet = {
 
 
 </div>
+<div align="center">
+  
+**⭐️ From [Anuneet323](https://github.com/Anuneet323) with 💙**
 
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+
+
   
