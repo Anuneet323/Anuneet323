@@ -16,20 +16,6 @@ I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI auto
 
 ---
 
-## 📈 GitHub Stats
-
-
-<!-- Option C: Alt stat mirror -->
-<div align="center">
-  <!-- small profile card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuneet323" height="120" alt="Profile summary"/>
-
-
-
-
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -63,7 +49,83 @@ const Anuneet = {
     
   <div align="left" class="img">
     <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" /> &nbsp; Languages and Tools</h2>
-    <!-- Languages -->
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🔥 Quick Highlights
+
+- 💼 **Software Engineer Intern** with hands-on product development experience
+- 🤖 Built an **AI-powered Career Coach** using Gemini AI
+- 🌐 Developed full-stack applications using **React, Next.js, Node.js & Java**
+- 🔐 Implemented **Authentication, REST APIs & Real-time AI Chat**
+- ⚡ Built **5+ backend APIs** and resolved **10+ production UI/API issues**
+- 🧵 Developed a **Multithreaded Java Deep Packet Inspection Engine**
+- 👥 Collaborated with a **4-member design team** using Git workflows
+- 🚀 Strong foundation in **DSA, Networking & System Design**
+
+---
+
+💼 Professional Experience
+
+### 💻 Software Engineer Intern @ Vedaz
+**Dec 2025 - Feb 2026 | Remote**
+
+- 🎨 Built reusable and responsive UI components using **React.js** & **Tailwind CSS**
+- 🔗 Integrated REST APIs for authentication, data fetching and application state
+- 🛠️ Fixed **10+ UI & API integration bugs** during sprint testing
+- ⚙️ Developed **5+ backend CRUD APIs** using **Node.js & Express.js**
+- 🤝 Worked closely with a **4-member design team** in Agile sprints
+- 🌱 Participated in Git-based code reviews and daily stand-up meetings
+
+---
+
+🏆 Featured Projects
+
+<div align="center">
+
+| 🤖 **AI Career Coach** | 🌐 **Java DPI Engine** | 🌱 **AquaAir Tracker** |
+|:---:|:---:|:---:|
+| AI-powered Career Guidance Platform | Network Packet Inspection Engine | Smart IoT Air & Water Monitor |
+| Next.js + Gemini AI + MongoDB | Java + Multithreading + PCAP | React + Node.js + Arduino |
+| AI Chat • Authentication | TCP/IP Analysis • Rule Engine | Live Sensor Monitoring |
+
+</div>
+
+### 🤖 AI Career Coach
+`Next.js` `Gemini AI` `MongoDB` `Inngest` `Shadcn UI`
+
+- 🤖 Personalized career guidance powered by **Gemini AI**
+- 💬 Real-time AI chat with streaming responses
+- 🔐 Secure user authentication system
+- 📱 Responsive modern UI built using Tailwind CSS & Shadcn UI
+- 🧪 Tested across **8+ user scenarios** for improved reliability
+
+---
+
+### 🌐 Java Deep Packet Inspection Engine
+`Java` `Networking` `Multithreading` `PCAP`
+
+- 🧵 Built a multithreaded packet inspection engine
+- 📦 Parsed Ethernet, IP and TCP packets from PCAP files
+- 🚫 Implemented rule-based traffic detection and blocking
+- ⚡ Optimized concurrent packet processing using worker threads
+- 🌐 Strengthened understanding of networking protocols
+
+---
+
+### 🌱 AquaAir Tracker
+`React.js` `Node.js` `Arduino` `IoT`
+
+- 🌍 IoT-based environmental monitoring system
+- 📊 Live air & water quality sensor dashboard
+- 🛰️ Real-time sensor data visualization
+- 🏆 Finalist in **IPS Tech Club Hackathon (Top 10 among 50+ teams)**
+- 🤝 Presented the solution before industry mentors
+
+---
+
       
 #### Languages 🔥:
 <div>
@@ -79,8 +141,6 @@ const Anuneet = {
 #### ⛓️Libraries and Frameworks:
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>	
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -88,9 +148,6 @@ const Anuneet = {
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
- <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
- <img alt="Three js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
  <img alt="Socket io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 
  </div>
@@ -106,11 +163,7 @@ const Anuneet = {
 #### ⚡️Tools and Technologies:
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
- 
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </div>
 
@@ -120,17 +173,13 @@ const Anuneet = {
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>	
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 
 </div>
 
 #### 📃Other:
 <div>
-<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img alt="Cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
-<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
 
 </div>
