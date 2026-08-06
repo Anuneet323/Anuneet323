@@ -6,7 +6,7 @@
 </h2>
 
 <p>
-I'm Anuneet Singh Chauhan — a Full-Stack Developer, AI/ML Learner & IoT Enthusiast.  
+I'm Anuneet Singh Chauhan — a Full-Stack Developer, AI & IoT Enthusiast.  
 Motivated and detail-oriented, Pursuing B.Tech in Computer Science (IoT Specialization) with experience building scalable web and IoT-cloud systems.
 </p>
 
