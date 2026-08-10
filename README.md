@@ -11,7 +11,7 @@ Motivated and detail-oriented, Pursuing B.Tech in Computer Science (IoT Speciali
 </p>
 
 <p>
-I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI automation and embedded development.Passionate about clean code, performance optimization, and teamwork through hackathons, internships, and open-source projects. Actively learning DSA in Java to strengthen problem-solving skills
+I work with JavaScript, React, Node.js, MongoDB, APIs & Cloud. Exploring AI automation and embedded development.Passionate about clean code, performance optimization, and teamwork through hackathons, internships, and open-source projects. Actively learning DSA in Java to strengthen problem-solving skills.
 </p>
 
 ---
