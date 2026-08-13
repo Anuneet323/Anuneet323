@@ -170,7 +170,7 @@ const Anuneet = {
 <!-- Hosting/SaaS -->
 #### ☁️ Hosting/SaaS:
 <div>
-    <img alt="Render" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>	
+    <img alt="Render" src="https://img.shields.io/badge/Render-%234285F4.svg?style=for-the-badge&logo=Render&logoColor=white"/>	
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
