@@ -60,7 +60,7 @@ const Anuneet = {
 - 🤖 Built an **AI-powered Career Coach** using Gemini AI
 - 🌐 Developed full-stack applications using **React, Next.js, Node.js & Java**
 - 🔐 Implemented **Authentication, REST APIs & Real-time AI Chat**
-- ⚡ Built **5+ backend APIs** and resolved **10+ production UI/API issues**
+- ⚡ Built **40+ backend APIs** and resolved **25+ production UI/API issues**
 - 🧵 Developed a **Multithreaded Java Deep Packet Inspection Engine**
 - 👥 Collaborated with a **4-member design team** using Git workflows
 - 🚀 Strong foundation in **DSA, Networking & System Design**
